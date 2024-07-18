@@ -2,10 +2,10 @@
 /oh_modules
 /local.properties
 /.idea
-**/build
+/build
 /.hvigor
 .cxx
 /.clangd
 /.clang-format
 /.clang-tidy
-**/.test
+/.test
